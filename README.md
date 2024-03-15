@@ -89,5 +89,6 @@ endmodule
 
 
 **Result:**
+
 Thus ths study of basic gates the successfully.
 
