@@ -63,12 +63,12 @@ Y= A⊕B
 
 
 **PROGRAM:**
+```
 /*
 Program for logic gates and verify its truth table in quartus using Verilog programming
 Developed by: CHANDRAPRIYADHARSHINI C
 RegisterNumber: 212223240019
 */
-```
 module  logicgates(a,b,andgate,orgate,notgate,nandgate,norgate,xorgate,xnorgate);
 input a,b;
 output andgate,orgate,notgate,nandgate,norgate,xorgate,xnorgate;
